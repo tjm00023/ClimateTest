@@ -7,9 +7,9 @@ The website currently consists of three main pages: Home, Train, and Airplane.
 
 Home Page: Features a table with two pressable buttons, leading to corresponding pages. Beneath the table, there are sections highlighting the benefits of traveling via skylines and trains. Bootstrap is utilized to dynamically change the theme of the pages.
 
-Train Page: Description here.
+Train Page: Just the basic foundation.
 
-Airplane Page: Description here.
+Airplane Page: Just the foundation.
 
 Research Summary
 During the development process, I conducted research on various websites to gather inspiration and insights for design and functionality.
@@ -23,14 +23,10 @@ TheTrainLine.com: Appreciated the simplicity and usability of the home page, wit
 Repositories
 During the research phase, I explored repositories related to weather tracking and visualization, as well as weather apps developed using Flutter.
 
-Weather Tracking Repository: Description here.
-
-Flutter Weather App Repository: Description here.
-
 Future Enhancements
 Moving forward, several enhancements are planned to improve the website's functionality, design, and code quality.
 
 Enhance cleanliness and organization of pages.
 Improve coding practices.
 Implement more creative elements and features.
-Feel free to contribute and provide feedback to help shape the future development of this project!
+
